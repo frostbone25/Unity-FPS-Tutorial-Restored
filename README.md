@@ -1,5 +1,5 @@
 # Unity 2.6 FPS Tutorial Restored
-The old Unity 2.6 FPS Tutorial sample project, now restored and enhanced for the modern day.
+The old Unity 2.6 FPS Tutorial sample project, now restored and enhanced for the modern day. **[Original Source](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial)**
 
 # Comparisons
 
@@ -45,4 +45,4 @@ Mostly for historical/archival reasons, but also due to how complex sample proje
 
 ### Original Sources
 
-[Original Unity 2.6 FPS Tutorial Project](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial)
+**[Original Unity 2.6 FPS Tutorial Project](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial)**
