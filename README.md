@@ -1,8 +1,19 @@
 # Unity 2.6 FPS Tutorial Restored
 The old Unity 2.6 FPS Tutorial sample project, now restored and enhanced for the modern day.
 
-# Results
+# Comparisons
 
+![1-restored](GithubContent/1-restored.jpg)
+
+![1-original](GithubContent/1-original.png)
+
+![2-restored](GithubContent/2-restored.png)
+
+![2-original](GithubContent/2-original.png)
+
+![3-restored](GithubContent/3-restored.png)
+
+![3-original](GithubContent/3-original.png)
 
 # Context
 
