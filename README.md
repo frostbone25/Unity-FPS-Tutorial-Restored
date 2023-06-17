@@ -36,4 +36,3 @@ Mostly for historical/archival reasons, but also due to how complex sample proje
 ### Original Sources
 
 [Unity 2.6 FPS Tutorial Project](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial)
-If you want also you can click here which will take you back to the [original FPS Tutorial page](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial) from Unity. In that link also someone did archive the original download links so it's still possible to download some of the old projects and assets. Overall this was a fun day-long project restoring a classic project from back in the early days of Unity :D
