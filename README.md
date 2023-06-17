@@ -13,11 +13,11 @@ As a long-time Unity3D user *(since 3.0)*, I recall using and learning with many
 It's worth noting that I did make an effort to keep the original integrity of the project visually and functionally. However, given that this project was made in the Unity 2.6 version, there have been of course many many additions and changes across the board to the entire engine and its API. So a lot of them were necessary to make, but also there were some things that I removed and also added/enhanced.
 
 - **PROJECT:** Upgraded from Unity 2.6.1 to 2020.3.35f1
-- **PROJECT:** UI has been reworked to leverage the new Unity UI system that was implemented to replace the legacy GUI system.
-- **PROJECT:** Removed old visibility culling code to use the native Occlusion Culling System.
 - **PROJECT:** Converted most of the scripts from UnityScript to C#.
 - **PROJECT:** Added a custom Physics Audio implementation to play sounds on collision events.
 - **PROJECT:** Added some sounds to the Health and Ammo pickups.
+- **PROJECT:** UI has been reworked to leverage the new Unity UI system that was implemented to replace the legacy GUI system.
+- **PROJECT:** Removed old visibility culling code to use the native Occlusion Culling System.
 - **PROJECT:** Additionally removed some other utility scripts that are not that useful anymore.
 - **ART:** Enhanced original textures by AI upscaling, and making them PBR compatible.
 - **ART:** Utilizing a slightly modified version of Silent's filamented standard shaders *(no legacy shaders in use)*
@@ -25,9 +25,9 @@ It's worth noting that I did make an effort to keep the original integrity of th
 - **ART:** Utilizing the Post Processing Stack for post effects *(original image effects are discarded)*
 - **ART:** Replaced old water shader with a new simple custom water shader *(old water shader is discarded)*
 - **ART:** Particles have been rebuilt to utilize the Shuriken Particle System.
-- **CODE:** AI was mostly reworked to leverage the NavMesh Pathfinding system implemented since Unity 3.5
+- **CODE:** AI was mostly reworked to leverage the native NavMesh Pathfinding system implemented since Unity 3.5
 - **CODE:** AI had a couple of additions to enhance its functionality. For visibility Field of View, and NavMesh Raycasting have been implemented for improved target visibility.
-- **CODE:** Reworked Level Reloading/Switching to use the SceneManagement API *(instead of the old Application.Level)*
+- **CODE:** Reworked Level Reloading/Switching to use the native SceneManagement API *(instead of the old Application.Level)*
 - **LEVEL:** Reworked the level a bit to utilize all of the original assets, as well as adding more enemies and dynamic objects.
 
 ### Why?
