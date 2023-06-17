@@ -3,7 +3,22 @@ guid: a07449f2d09766b4485b2b2a6bcdb8fc
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crateSmall_crateSmall
+    second: {fileID: 2100000, guid: 0eedd87997551f24ebc11dd6b1f743aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fe6561bd4b86a124a912c5d90c4e946d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodPalette
+    second: {fileID: 2100000, guid: 3b4c74c887e3b4b41bd469a4386f1f13, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
