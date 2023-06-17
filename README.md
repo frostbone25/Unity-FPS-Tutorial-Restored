@@ -19,8 +19,7 @@ It's worth noting that I did make an effort to keep the original integrity of th
 - **PROJECT:** UI has been reworked to leverage the new Unity UI system that was implemented to replace the legacy GUI system.
 - **PROJECT:** Removed old visibility culling code to use the native Occlusion Culling System.
 - **PROJECT:** Additionally removed some other utility scripts that are not that useful anymore.
-- **ART:** Enhanced original textures by AI upscaling, and making them PBR compatible.
-- **ART:** Utilizing a slightly modified version of Silent's filamented standard shaders *(no legacy shaders in use)*
+- **ART:** Enhanced original textures by AI upscaling, converted some of the old bump maps into normal maps, and used the standard shader over the legacy shaders.
 - **ART:** Re-Lit the level and rebuilt lighting using the Progressive lightmapper *(original lightmaps are discarded)*
 - **ART:** Utilizing the Post Processing Stack for post effects *(original image effects are discarded)*
 - **ART:** Replaced old water shader with a new simple custom water shader *(old water shader is discarded)*
