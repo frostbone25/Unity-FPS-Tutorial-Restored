@@ -17,7 +17,7 @@ The old Unity 2.6 FPS Tutorial sample project, now restored and enhanced for the
 
 # Context
 
-As a long-time Unity3D user *(since 3.0)*, I recall using and learning with many of the old resources and tutorials that Unity provided. As the engine evolved of course many of these resources quickly went out of date and are no longer available officially. Thankfully many of these have been fortunately archived in the Wayback Machine, and I decided to 
+As a long-time Unity3D user *(since 3.0)*, I recall using and learning with many of the old resources and tutorials that Unity provided. As the engine evolved of course many of these resources quickly went out of date and are no longer available officially. Thankfully many of these have been fortunately archived in the Wayback Machine, and I decided to make the effort to restore/enhance these projects and "revive" them.
 
 # Changes Made
 
@@ -29,12 +29,12 @@ It's worth noting that I did make an effort to keep the original integrity of th
 - **PROJECT:** Added some sounds to the Health and Ammo pickups.
 - **PROJECT:** UI has been reworked to leverage the new Unity UI system that was implemented to replace the legacy GUI system.
 - **PROJECT:** Removed old visibility culling code to use the native Occlusion Culling System.
-- **PROJECT:** Additionally removed some other utility scripts that are not that useful anymore.
+- **PROJECT:** Additionally removed a lot of other old JS scripts that are not that useful anymore.
 - **ART:** Enhanced original textures by AI upscaling, converted some of the old bump maps into normal maps, and used the standard shader over the legacy shaders.
 - **ART:** Re-Lit the level and rebuilt lighting using the Progressive lightmapper *(original lightmaps are discarded)*
 - **ART:** Utilizing the Post Processing Stack for post effects *(original image effects are discarded)*
 - **ART:** Replaced old water shader with a new simple custom water shader *(old water shader is discarded)*
-- **ART:** Particles have been rebuilt to utilize the Shuriken Particle System.
+- **ART:** Particles have been rebuilt to utilize the native Shuriken Particle System.
 - **CODE:** AI was mostly reworked to leverage the native NavMesh Pathfinding system implemented since Unity 3.5
 - **CODE:** AI had a couple of additions to enhance its functionality. For visibility Field of View, and NavMesh Raycasting have been implemented for improved target visibility.
 - **CODE:** Reworked Level Reloading/Switching to use the native SceneManagement API *(instead of the old Application.Level)*
@@ -45,4 +45,4 @@ Mostly for historical/archival reasons, but also due to how complex sample proje
 
 ### Original Sources
 
-[Unity 2.6 FPS Tutorial Project](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial)
+[Original Unity 2.6 FPS Tutorial Project](https://web.archive.org/web/20100102063856/http://unity3d.com/support/resources/tutorials/fpstutorial)
