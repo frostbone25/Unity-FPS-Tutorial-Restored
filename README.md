@@ -12,13 +12,13 @@ As a long-time Unity3D user *(since 3.0)*, I recall using and learning with many
 
 It's worth noting that I did make an effort to keep the original integrity of the project visually and functionally. However, given that this project was made in the Unity 2.6 version, there have been of course many many additions and changes across the board to the entire engine and its API. So a lot of them were necessary to make, but also there were some things that I removed and also added/enhanced.
 
-- **PROJECT WIDE:** Upgraded from Unity 2.6.1 to 2020.3.35f1
-- **PROJECT WIDE:** UI has been reworked to leverage the new Unity UI system that was implemented to replace the legacy GUI system.
-- **PROJECT WIDE:** Removed old visibility culling code to use the native Occlusion Culling System.
-- **PROJECT WIDE:** Converted most of the scripts from UnityScript to C#.
-- **PROJECT WIDE:** Added a custom Physics Audio implementation to play sounds on collision events.
-- **PROJECT WIDE:** Added some sounds to the Health and Ammo pickups.
-- **PROJECT WIDE:** Additionally removed some other utility scripts that are not that useful anymore.
+- **PROJECT:** Upgraded from Unity 2.6.1 to 2020.3.35f1
+- **PROJECT:** UI has been reworked to leverage the new Unity UI system that was implemented to replace the legacy GUI system.
+- **PROJECT:** Removed old visibility culling code to use the native Occlusion Culling System.
+- **PROJECT:** Converted most of the scripts from UnityScript to C#.
+- **PROJECT:** Added a custom Physics Audio implementation to play sounds on collision events.
+- **PROJECT:** Added some sounds to the Health and Ammo pickups.
+- **PROJECT:** Additionally removed some other utility scripts that are not that useful anymore.
 - **ART:** Enhanced original textures by AI upscaling, and making them PBR compatible.
 - **ART:** Utilizing a slightly modified version of Silent's filamented standard shaders *(no legacy shaders in use)*
 - **ART:** Re-Lit the level and rebuilt lighting using the Progressive lightmapper *(original lightmaps are discarded)*
